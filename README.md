@@ -66,15 +66,6 @@ Basta abrir o arquivo .html em qualquer navegador moderno (Chrome, Edge, Firefox
 
 O sistema salvará os dados automaticamente no seu computador.
 
-Versão Desktop (Executável)
-Se você seguiu o processo de empacotamento com Electron, basta:
-
-Navegar até a pasta gerada NomeDoMeuApp-win32-x64.
-
-Executar o arquivo NomeDoMeuApp.exe.
-
-(Opcional) Criar um atalho na Área de Trabalho para acesso rápido.
-
 ⚠️ Avisos Importantes
 Limpeza de Cache: Como os dados ficam no localStorage, limpar os dados de navegação do Chrome pode apagar seu histórico. Sempre faça backups periódicos em JSON.
 
